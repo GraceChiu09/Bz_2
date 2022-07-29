@@ -21,8 +21,8 @@
 </div>
 <?php
 
-$use = $User -> all();
-echo dd($use);
+// $use = $User -> all();
+// echo dd($use);
 ?>
 	<div id="all">
     	<div id="title">
